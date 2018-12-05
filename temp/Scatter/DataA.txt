@@ -1,0 +1,54 @@
+&	Arts:adm	Arts:ROI	Bus:adm	Bus:ROI	Eng:adm	Eng:ROI	Hum:adm	Hum:ROI	Sci:adm	Sci:ROI
+Arts	54.90961217	12.5	*	*	*	*	*	*	*	*
+Arts	43.37785827	10.9	*	*	*	*	*	*	*	*
+Arts	37.39660031	10.7	*	*	*	*	*	*	*	*
+Arts	32.88027184	10.4	*	*	*	*	*	*	*	*
+Arts	58.43520782	10.3	*	*	*	*	*	*	*	*
+Arts	73.98544549	9.7	*	*	*	*	*	*	*	*
+Arts	36.55274539	9.5	*	*	*	*	*	*	*	*
+Arts	65.02192982	9.2	*	*	*	*	*	*	*	*
+Arts	64.30909192	9.1	*	*	*	*	*	*	*	*
+Arts	75.13708765	9	*	*	*	*	*	*	*	*
+Business and economics	*	*	29.54963573	19.4	*	*	*	*	*	*
+Business and economics	*	*	32.97280593	16.7	*	*	*	*	*	*
+Business and economics	*	*	21.61111321	16.3	*	*	*	*	*	*
+Business and economics	*	*	58.43520782	16	*	*	*	*	*	*
+Business and economics	*	*	32.16691069	15.3	*	*	*	*	*	*
+Business and economics	*	*	66.88063469	14.9	*	*	*	*	*	*
+Business and economics	*	*	12.60490743	14.8	*	*	*	*	*	*
+Business and economics	*	*	51.17830778	14.7	*	*	*	*	*	*
+Business and economics	*	*	27.11189811	14.3	*	*	*	*	*	*
+Business and economics	*	*	74.4120067	14.1	*	*	*	*	*	*
+Business and economics	*	*	54.90961217	14.1	*	*	*	*	*	*
+Business and economics	*	*	35.34958559	14.1	*	*	*	*	*	*
+Engineering@ computer science and maths	*	*	*	*	67.0999624	15.5	*	*	*	*
+Engineering@ computer science and maths	*	*	*	*	61.32712873	15.4	*	*	*	*
+Engineering@ computer science and maths	*	*	*	*	46.94385217	15.4	*	*	*	*
+Engineering@ computer science and maths	*	*	*	*	65.02192982	15.1	*	*	*	*
+Engineering@ computer science and maths	*	*	*	*	37.39660031	15.1	*	*	*	*
+Engineering@ computer science and maths	*	*	*	*	63.34329497	15	*	*	*	*
+Engineering@ computer science and maths	*	*	*	*	79.65478501	14.9	*	*	*	*
+Engineering@ computer science and maths	*	*	*	*	73.65119197	14.9	*	*	*	*
+Engineering@ computer science and maths	*	*	*	*	40.06469669	14.9	*	*	*	*
+Engineering@ computer science and maths	*	*	*	*	86.25171939	14.8	*	*	*	*
+Engineering@ computer science and maths	*	*	*	*	79.55864489	14.8	*	*	*	*
+Engineering@ computer science and maths	*	*	*	*	69.03664921	14.8	*	*	*	*
+Humanities	*	*	*	*	*	*	70.37789114	9.3	*	*
+Humanities	*	*	*	*	*	*	48.2592232	8.9	*	*
+Humanities	*	*	*	*	*	*	40.06469669	8.9	*	*
+Humanities	*	*	*	*	*	*	79.55864489	8.8	*	*
+Humanities	*	*	*	*	*	*	62.96317377	8.8	*	*
+Humanities	*	*	*	*	*	*	64.30909192	8.7	*	*
+Humanities	*	*	*	*	*	*	46.74719878	8.6	*	*
+Humanities	*	*	*	*	*	*	56.201892	8.3	*	*
+Humanities	*	*	*	*	*	*	56.86372974	8.2	*	*
+Science	*	*	*	*	*	*	*	*	21.61111321	12.5
+Science	*	*	*	*	*	*	*	*	52.61403771	12.2
+Science	*	*	*	*	*	*	*	*	35.34958559	12.2
+Science	*	*	*	*	*	*	*	*	69.64082561	11.9
+Science	*	*	*	*	*	*	*	*	67.0999624	11.9
+Science	*	*	*	*	*	*	*	*	58.43520782	11.8
+Science	*	*	*	*	*	*	*	*	71.39346094	11.7
+Science	*	*	*	*	*	*	*	*	68.15900922	11.7
+Science	*	*	*	*	*	*	*	*	66.88063469	11.7
+Science	*	*	*	*	*	*	*	*	63.34329497	11.7

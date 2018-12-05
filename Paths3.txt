@@ -1,0 +1,5 @@
+resdesk==/Volumes/Research/RESDESK/
+resprd==/Volumes/Research/RESPRD/
+cciPath==/Volumes/Graphics/Images/1_Images_In/
+adminPath==/Volumes/Data/Ilex master/Revamp_admin/
+illustrator==/Applications/Adobe Illustrator CC 2015/

@@ -1,0 +1,43 @@
+title==To come
+subtitle==% of births outside wedlock
+source==OECD
+footnote==*2011
+comment===
+catLabel==Category label
+accumulate==False|False
+logScale==False
+invertedScaleA==False
+invertedScaleB==False
+doubleScale==0
+vScaleAcross==True
+stepline==False
+installationFolder==I_Print
+installation==1
+chartName==052WEDLO.CRV
+userName==Adam (1388)
+canEdit==True
+originator==Adam
+sectionFile==RV.txt
+panel==2|2|1
+onePanelVisible==False
+chartHeight==175
+chartWidth==320
+chartStyle==|ColThermo
+timeSeries==years|years
+subFolderName==
+highA==
+lowA==
+incrementA==
+highB==100
+lowB==0
+incrementB==20
+isIndex==False
+extraTitle==0
+extraSubtitle==0
+ssLeftMargin==12
+blobFlag==False
+numberFormat==0|0
+breakTopScale==0
+catFootnotes==|||
+cciPath==MAC:Images:1_Images_In:
+

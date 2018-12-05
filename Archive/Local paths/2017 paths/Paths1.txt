@@ -1,0 +1,5 @@
+resdesk==Research:RESDESK:
+resprd==MacintoshHD:Users:macbook:Desktop:mockresprd:
+cciPath==MacintoshHD:Users:macbook:Desktop:mockimagesin:
+adminPath==MacintoshHD:Users:macbook:Desktop:Revamp_admin:
+illustrator==MacintoshHD:Applications:Adobe Illustrator CC 2018:

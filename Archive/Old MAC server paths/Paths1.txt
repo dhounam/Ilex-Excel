@@ -1,0 +1,5 @@
+resdesk==MAC:RESEARCH:RESDESK:
+resprd==MAC:RESEARCH:RESPRD:
+cciPath==MAC:Images:1_Images_In:
+adminPath==MAC:InfoGraphics:Ilex master:Revamp_admin:
+illustrator==MacintoshHD:Applications:Adobe Illustrator CC 2015:

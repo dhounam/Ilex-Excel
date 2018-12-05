@@ -1,0 +1,5 @@
+resdesk==Research:RESDESK:
+resprd==Research:RESPRD:
+cciPath==Graphics:Images:1_Images_In:
+adminPath==Data:Ilex master:Revamp_admin:
+illustrator==/Applications/Adobe Illustrator CC 2015/

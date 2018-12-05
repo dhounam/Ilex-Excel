@@ -1,0 +1,5 @@
+resdesk==/Volumes/Research/RESDESK/
+resprd==/Users/donaldhounam/Desktop/mockresprd/
+cciPath==/Users/donaldhounam/Desktop/mockimagesin/
+adminPath==/Users/donaldhounam/Desktop/ilex-revamp/
+illustrator==/Applications/Adobe Illustrator CC 2015/
